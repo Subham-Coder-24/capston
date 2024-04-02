@@ -1,0 +1,7 @@
+path: /Users/subhamswaruppradhan/Desktop/capston/cap
+
+train: /Users/subhamswaruppradhan/Desktop/capston/cap
+val: valid/images
+test: test/images
+
+names: ['cap', 'noCap']
